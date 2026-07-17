@@ -63,14 +63,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VecetyP&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="VecetyP's GitHub Stats" onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=VecetyP&theme=dark&hide_border=true';" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VecetyP&theme=dark" alt="Top Langs" />
-</p>
-
 </div>
