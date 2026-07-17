@@ -52,17 +52,7 @@
 
 ### 🎮 Gaming & Content
 
-<p align="center">
-  <a href="https://www.youtube.com/@VecetyP" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.roblox.com/users/974129486/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-  </a>
-  <a href="https://wynncraft.com/stats/player/vecetyp" target="_blank">
-    <img src="https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge" alt="Wynncraft" />
-  </a>
-</p>
+<p align="center"><a href="https://www.youtube.com/@VecetyP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a><a href="https://www.roblox.com/users/974129486/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a><a href="https://wynncraft.com/stats/player/vecetyp" target="_blank"><img src="https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge" alt="Wynncraft" /></a></p>
 
 * **Minecraft:** I like tech modpacks.
 * **Wynncraft:** Assassin main (Acrobat archetype).
@@ -73,11 +63,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VecetyP&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="VecetyP's GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=VecetyP&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="VecetyP's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VecetyP&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=VecetyP&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
 </div>
