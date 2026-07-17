@@ -8,7 +8,7 @@
 
 ### 👤 About Me
 
-I am a college student and developer focused on computer engineering, math, and physics. Right now I am learning about different AI models and architectures to hopefully make something useful in the future. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts.I spend my free time writing code, practicing taekwondo, and just playing games.
+I am a college student and developer focused on computer engineering, math, and physics. Right now I am learning about different AI models and architectures to hopefully make something useful in the future. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
 
 ---
 
