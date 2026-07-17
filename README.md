@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Vec! 👋
+# Hey there, I'm Vec
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai+stuff;C%2B%2B%2C+Python%2C+and+math+visualizations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai+stuff)](https://git.io/typing-svg)
 
 ---
 
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-* **Minecraft:** Huge fan of tech-based, heavy automation modpacks. 
+* **Minecraft:** I like tech modpacks.
 * **Wynncraft:** Assassin main (Acrobat archetype).
 * **Other Activities:** Beat Saber, ballroom/latin dancing, and taekwondo.
 
