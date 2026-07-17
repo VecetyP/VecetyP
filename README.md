@@ -53,11 +53,10 @@
 ### 🎮 Gaming & Content
 
 <p align="center">
-  <a href="https://www.youtube.com/@VecetyP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
-  <a href="https://www.roblox.com/users/974129486/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /> </a>
-  <a href="https://wynncraft.com/stats/player/vecetyp" target="_blank"><img src="https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge" alt="Wynncraft" /></a></p>
+  <a href="https://www.youtube.com/@VecetyP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.roblox.com/users/974129486/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wynncraft.com/stats/player/vecetyp" target="_blank"><img src="https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge" alt="Wynncraft" /></a>
+</p>
 
-* **Minecraft:** I like tech modpacks.
+* **Minecraft Mods:** I like tech modpacks.
 * **Wynncraft:** Assassin main (Acrobat archetype).
 * **Other Activities:** Beat Saber, ballroom/latin dancing, and taekwondo.
 
