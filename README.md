@@ -34,6 +34,7 @@ I am a college student and developer focused on computer engineering, math, and 
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 * **Applications:** Programmatic math animations via Manim, scientific curve-fitting, machine learning pipelines, custom MLP training, `.pth` state-dict serialization, and edge model inference.
@@ -42,6 +43,7 @@ I am a college student and developer focused on computer engineering, math, and 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify-FF1493?style=for-the-badge&logo=apify&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
@@ -52,6 +54,7 @@ I am a college student and developer focused on computer engineering, math, and 
 <p align="center">
   <img src="https://img.shields.io/badge/Wondershare_Filmora-00C5CD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Paint.NET-002040?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
