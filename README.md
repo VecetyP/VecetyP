@@ -2,13 +2,13 @@
 
 # Hey there, I'm Vec
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai+and+physics+stuff)](https://git.io/typing-svg)
 
 ---
 
 ### 👤 About Me
 
-I am a college student and developer focused on computer engineering, math, and physics. Right now I am learning about different AI models and architectures to hopefully make something useful in the future. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
+I am a college student and developer focused on computer engineering, math, and physics. Right now I am learning about different AI models, numerical computing, and graphics programming to hopefully make something useful in the future. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
 
 ---
 
@@ -26,7 +26,7 @@ I am a college student and developer focused on computer engineering, math, and 
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-* **Focus:** Custom MLP training, `.pth` state-dict serialization, edge model inference, machine learning pipelines, and scientific data/curve-fitting tools.
+My main areas of focus here are custom MLP training, .pth state-dict serialization, edge model inference, machine learning pipelines, and scientific curve-fitting tools.
 
 #### 🎮 Game Development & Systems
 <p align="center">
@@ -37,11 +37,15 @@ I am a college student and developer focused on computer engineering, math, and 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-* **Focus:** High-performance algorithms, competitive programming (POSN camps), Roblox game logic/mechanics, and microcontroller hardware programming.
+I use these tools for high-performance algorithms, competitive programming, Roblox game logic, and microcontroller hardware programming.
 
-#### 🌐 Web Engineering & Automation
+#### 🌐 Web, Cloud & Graphics
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGPU-5E5DF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WGSL-150458?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -50,7 +54,7 @@ I am a college student and developer focused on computer engineering, math, and 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-* **Focus:** Web application development, cloud hosting, JSON databases, automated web scraping with Apify SDK, and version control.
+This stack is what I use for web application development, graphics programming, physics simulations, cloud hosting, automated web scraping with the Apify SDK, and version control.
 
 #### 🎨 Design, Media & Visualization
 <p align="center">
@@ -60,7 +64,7 @@ I am a college student and developer focused on computer engineering, math, and 
   <img src="https://img.shields.io/badge/Wondershare_Filmora-00C5CD?style=for-the-badge" />
 </p>
 
-* **Focus:** Programmatic math and physics animations, UI design, graphics editing, and video production.
+I rely on these for programmatic math and physics animations, UI design, graphics editing, and video production.
 
 ---
 
@@ -70,9 +74,7 @@ I am a college student and developer focused on computer engineering, math, and 
   <a href="https://www.youtube.com/@VecetyP" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.roblox.com/users/974129486/profile" target="_blank"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wynncraft.com/stats/player/vecetyp" target="_blank"><img src="https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge" alt="Wynncraft" /></a>
 </p>
 
-* **Minecraft Mods:** I like tech modpacks.
-* **Wynncraft:** Assassin main (Acrobat archetype).
-* **Other Activities:** Beat Saber, ballroom/latin dancing, and taekwondo.
+I play a lot of games in my free time. In Minecraft, I mostly play technical modpacks and on the Wynncraft server, where I main an Assassin with the Acrobat archetype. Outside of that, I play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
 
 ---
 
