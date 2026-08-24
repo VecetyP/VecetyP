@@ -2,7 +2,7 @@
 
 # Hey there, I'm Vec
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai+and+physics+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=500&lines=a+dude+coding+random+things;i+do+ai,+math,+and+physics+stuff)](https://git.io/typing-svg)
 
 ---
 
