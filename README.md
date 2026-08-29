@@ -82,7 +82,8 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 | [Background People Remover](https://github.com/VecetyP/background-people-remover) | YOLOv8 detection + OpenCV inpainting to delete strangers from your photos |
 | [I Don't Know What to Eat](https://github.com/VecetyP/I-Don-t-Know-What-To-Eat) | Restaurant roulette with Google Maps, filters, and a decision wheel |
 | [Math & Physics Animations](https://github.com/VecetyP/Mathematics-Physics-Animations) | Manim scenes: Fourier decomposition, gravity fields, calculus proofs |
-| [Cellular Automata](https://github.com/VecetyP/Cellular-Automata) · [3D Cube](https://github.com/VecetyP/3dCube) | Small terminal toys, custom B/S rulestrings, ASCII depth shading |
+| [3D Cube](https://github.com/VecetyP/3dCube) | Small terminal toy, ASCII depth shading |
+| [Cellular Automata](https://github.com/VecetyP/Cellular-Automata) | Cellular Automata on Terminal / Interactive Cellelar Automata on Ursina |
 
 ---
 
