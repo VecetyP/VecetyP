@@ -36,7 +36,7 @@ CNNs and MLPs from scratch, transfer learning and selective layer unfreezing wit
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Ursina](https://img.shields.io/badge/Ursina-000000?style=for-the-badge)
 
-High-performance algorithms, competitive programming, Roblox game logic, microcontroller hardware programming, cellular automata with arbitrary B/S rulestrings, terminal ASCII renderers with rotation matrices and z-buffering, and so on.
+Algorithms, competitive programming, Roblox Studio, microcontroller hardware programming, cellular automata, and so on.
 
 #### Web, Backend & Graphics
 
