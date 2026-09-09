@@ -94,3 +94,5 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 [![Wynncraft](https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge)](https://wynncraft.com/stats/player/vecetyp)
 
 I play a lot of games in my free time. In Minecraft, I mostly play technical modpacks and on the Wynncraft server, where I main an Assassin with the Acrobat archetype. Outside of that, I play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
+
+![ascii](ascii.svg)
