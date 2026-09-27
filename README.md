@@ -63,6 +63,7 @@ This is what I use for GPU compute and shader work, physics simulation in the br
 #### Design, Media & Visualization
 
 ![Manim](https://img.shields.io/badge/Manim-111111?style=for-the-badge)
+![Swaptube](https://img.shields.io/badge/Swaptube-400090?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Paint.NET](https://img.shields.io/badge/Paint.NET-002040?style=for-the-badge)
 ![Filmora](https://img.shields.io/badge/Wondershare_Filmora-00C5CD?style=for-the-badge)
