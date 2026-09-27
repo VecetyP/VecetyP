@@ -79,7 +79,7 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 | [ResNet-18 Handsign](https://github.com/VecetyP/ResNet18-Handsign-Classification) | ASL alphabet classifier at 98.48% test accuracy via selective fine-tuning and differential learning rates |
 | [Digit Inference Engine](https://github.com/VecetyP/Hand-Drawn-Digit-Inference-Engine) | MLP vs CNN on MNIST (99.03%), plus a Tkinter canvas that predicts what you draw in real time |
 | [CP Roadmap](https://github.com/VecetyP/Computer-Engineering-Roadmap) | Interactive DAG of my whole curriculum with prerequisite chains (Cytoscape.js + dagre) |
-| [Background People Remover](https://github.com/VecetyP/background-people-remover) | YOLOv8 detection + OpenCV inpainting to delete strangers from your photos |
+| [Video To ASCII Animation](https://github.com/VecetyP/Video2ASCII) | Turns a short GIF into a single animated SVG ASCII art that you can embed inside GitHub README|
 | [I Don't Know What to Eat](https://github.com/VecetyP/I-Don-t-Know-What-To-Eat) | Restaurant roulette with Google Maps, filters, and a decision wheel |
 | [Math & Physics Animations](https://github.com/VecetyP/Mathematics-Physics-Animations) | Manim scenes: Fourier decomposition, gravity fields, calculus proofs |
 | [3D Cube](https://github.com/VecetyP/3dCube) | Small terminal toy, ASCII depth shading |
@@ -95,4 +95,4 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 
 I play a lot of games in my free time. In Minecraft, I mostly play technical modpacks and on the Wynncraft server, where I main an Assassin with the Acrobat archetype. Outside of that, I play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
 
-![ascii](ascii.svg)
+[![ascii](ascii.svg)](https://github.com/VecetyP/Video2ASCII)
