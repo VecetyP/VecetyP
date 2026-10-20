@@ -27,7 +27,7 @@ I am a first-year Computer Engineering student at Chulalongkorn University and o
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools. I also like the non-neural side: classical CV pipelines (OpenCV skeletonization and template matching where every decision has a reason), LangGraph agents with RAG, and structured Gemini output that falls back to deterministic logic when there is no key.
+CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools. I also like the non-neural side: classical CV pipelines (OpenCV skeletonization and template matching where every decision has a reason), LangGraph agents with RAG, and structured LLM output that falls back to deterministic logic when necessary.
 
 #### Game Development & Systems
 
