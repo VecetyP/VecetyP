@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a college student and developer focused on computer engineering, math, and physics. Right now I am learning about different AI models, numerical computing, and graphics programming to hopefully make something useful in the future. I like projects that have a hard technical core but still look cool on screen: inverse rendering, wave solvers, cellular automata, that sort of thing. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
+I am a first-year Computer Engineering student at Chulalongkorn University and on the technical team at GDGoC Chulalongkorn. Right now I am learning about different AI models, numerical computing, and graphics programming to hopefully make something useful in the future. I build for hackathons (U-Hackathon 2026, Jump Thailand), and my long-term track is reinforcement learning and robotics on a control theory foundation. I like projects that have a hard technical core but still look cool on screen: inverse rendering, wave solvers, cellular automata, that sort of thing. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
 
 ---
 
@@ -24,8 +24,10 @@ I am a college student and developer focused on computer engineering, math, and 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools.
+CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools. I also like the non-neural side: classical CV pipelines (OpenCV skeletonization and template matching where every decision has a reason), LangGraph agents with RAG, and structured Gemini output that falls back to deterministic logic when there is no key.
 
 #### Game Development & Systems
 
@@ -53,12 +55,15 @@ Algorithms, competitive programming, Roblox Studio, microcontroller hardware pro
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Cytoscape.js](https://img.shields.io/badge/Cytoscape.js-F68D42?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Apify](https://img.shields.io/badge/Apify-FF1493?style=for-the-badge&logo=apify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-This is what I use for GPU compute and shader work, physics simulation in the browser, REST APIs and async backends, graph and data visualization, automated web scraping with the Apify SDK, and version control. Most of my frontend work is vanilla, just HTML/CSS/JS and hand-built SVG when I need a graph.
+This is what I use for GPU compute and shader work, physics simulation in the browser, REST APIs and async backends with Pydantic schemas, graph and data visualization, automated web scraping with the Apify SDK, and version control. Most of my frontend work is vanilla, just HTML/CSS/JS and hand-built SVG when I need a graph.
 
 #### Design, Media & Visualization
 
@@ -76,15 +81,20 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 
 | Project | What it is |
 |---|---|
-| [Dynamic Fluid Caustics](https://github.com/VecetyP/Dynamic-Fluid-Caustics) | Draw a shape, and water focuses light into it. Monge–Ampère inverse solve, DCT Poisson steps, shallow-water sim, WebGPU + WGSL compute, Three.js tank |
+| [Dynamic Fluid Caustics](https://github.com/VecetyP/Dynamic-Fluid-Caustics) ([live demo](https://vecetyp.github.io/Dynamic-Fluid-Caustics/)) | Draw a shape, and water focuses light into it. Monge–Ampère inverse solve, DCT Poisson steps, shallow-water sim, WebGPU + WGSL compute, Three.js tank |
+| [ClearVote](https://github.com/VecetyP/U-Hackathon-Demo-ClearVote) | Thai ballot verification for U-Hackathon 2026. Offline classical CV (OpenCV, no neural net), every verdict has a reason, 32/32 on the Election Commission benchmark |
+| [ClassTwin](https://github.com/VecetyP/ClassTwin-Backend-Demo) | "Turn a 1:200 into a 200:200." LangGraph tutor and teacher agents over a RAG store, Gemini structured output with an offline fallback, grades computed in code and never by the LLM |
 | [ResNet-18 Handsign](https://github.com/VecetyP/ResNet18-Handsign-Classification) | ASL alphabet classifier at 98.48% test accuracy via selective fine-tuning and differential learning rates |
 | [Digit Inference Engine](https://github.com/VecetyP/Hand-Drawn-Digit-Inference-Engine) | MLP vs CNN on MNIST (99.03%), plus a Tkinter canvas that predicts what you draw in real time |
 | [CP Roadmap](https://github.com/VecetyP/Computer-Engineering-Roadmap) | Interactive DAG of my whole curriculum with prerequisite chains (Cytoscape.js + dagre) |
-| [Video To ASCII Animation](https://github.com/VecetyP/Video2ASCII) | Turns a short GIF into a single animated SVG ASCII art that you can embed inside GitHub README|
+| [Tech Engineering Pathways](https://github.com/VecetyP/Tech-Engineering-Roadmap) | Free beginner field guide in one HTML file: 68 roles, 10 departments, and a skill trail for each role |
+| [Video To ASCII Animation](https://github.com/VecetyP/Video2ASCII) | Turns a short GIF into a single animated SVG ASCII art that you can embed inside GitHub README |
+| [University News Pipeline](https://github.com/VecetyP/university-news-pipeline) | Apify scrape, local QR decoding, and a Gemini filter that writes a daily digest into an Obsidian note |
+| [Heart Disease Pipeline](https://github.com/VecetyP/Heart-Disease-Classification-Pipeline) | Logistic Regression vs Random Forest vs Gradient Boosting on 13 clinical features, 86.67% test accuracy with a serialized pipeline |
 | [I Don't Know What to Eat](https://github.com/VecetyP/I-Don-t-Know-What-To-Eat) | Restaurant roulette with Google Maps, filters, and a decision wheel |
 | [Math & Physics Animations](https://github.com/VecetyP/Mathematics-Physics-Animations) | Manim scenes: Fourier decomposition, gravity fields, calculus proofs |
+| [Cellular Automata](https://github.com/VecetyP/Cellular-Automata) | Cellular Automata on Terminal / Interactive Cellular Automata on Ursina |
 | [3D Cube](https://github.com/VecetyP/3dCube) | Small terminal toy, ASCII depth shading |
-| [Cellular Automata](https://github.com/VecetyP/Cellular-Automata) | Cellular Automata on Terminal / Interactive Cellelar Automata on Ursina |
 
 ---
 
