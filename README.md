@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a first-year Computer Engineering student at Chulalongkorn University and on the technical team at GDGoC Chulalongkorn. Right now I am learning about different AI models, numerical computing, and graphics programming to hopefully make something useful in the future. I build for hackathons (U-Hackathon 2026, Jump Thailand), and my long-term track is reinforcement learning and robotics on a control theory foundation. I like projects that have a hard technical core but still look cool on screen: inverse rendering, wave solvers, cellular automata, that sort of thing. I also tutor students in math and physics using the Manim Python library to visualize difficult concepts. I spend my free time writing code, practicing taekwondo, and just playing games.
+I am a first-year Computer Engineering student at Chulalongkorn University and on the technical team at GDGoC Chulalongkorn. I build for hackathons and like projects with a hard technical core that still look cool on screen: inverse rendering, wave solvers, cellular automata, that sort of thing. I also tutor math and physics with Manim, and spend my free time coding, practicing taekwondo, and playing games.
 
 ---
 
