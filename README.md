@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am a first-year Computer Engineering student at Chulalongkorn University and on the technical team at GDGoC Chulalongkorn. I build for hackathons and like projects with a hard technical core that still look cool on screen: inverse rendering, wave solvers, cellular automata, that sort of thing. I also tutor math and physics with Manim, and spend my free time coding, practicing taekwondo, and playing games.
+I am a first-year Computer Engineering student at Chulalongkorn University and on the technical team at GDGoC Chulalongkorn. I build for hackathons and like projects with a hard technical core that still look cool on screen: inverse rendering, single-image 3D reconstruction, wave solvers, cellular automata, that sort of thing. I also tutor math and physics with Manim, and spend my free time coding, practicing taekwondo, and playing games.
 
 ---
 
@@ -16,6 +16,7 @@ I am a first-year Computer Engineering student at Chulalongkorn University and o
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -27,7 +28,7 @@ I am a first-year Computer Engineering student at Chulalongkorn University and o
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools. I also like the non-neural side: classical CV pipelines (OpenCV skeletonization and template matching where every decision has a reason), LangGraph agents with RAG, and structured LLM output that falls back to deterministic logic when necessary.
+CNNs and MLPs from scratch, transfer learning and selective layer unfreezing with ResNet-18, edge/desktop model inference, scikit-learn pipelines with cross-validation and model benchmarking, object detection and image inpainting, and scientific curve-fitting tools. Lately also monocular 3D: depth and point-map models (MoGe, Depth Anything, VGGT) and what to build on top of their output. I also like the non-neural side: classical CV pipelines (OpenCV skeletonization and template matching where every decision has a reason), LangGraph agents with RAG, and structured LLM output that falls back to deterministic logic when necessary.
 
 #### Game Development & Systems
 
@@ -44,6 +45,7 @@ Algorithms, competitive programming, Roblox Studio, microcontroller hardware pro
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGPU](https://img.shields.io/badge/WebGPU-5E5DF0?style=for-the-badge)
 ![WGSL](https://img.shields.io/badge/WGSL-150458?style=for-the-badge)
@@ -63,7 +65,7 @@ Algorithms, competitive programming, Roblox Studio, microcontroller hardware pro
 ![Apify](https://img.shields.io/badge/Apify-FF1493?style=for-the-badge&logo=apify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-This is what I use for GPU compute and shader work, physics simulation in the browser, REST APIs and async backends with Pydantic schemas, graph and data visualization, automated web scraping with the Apify SDK, and version control. Most of my frontend work is vanilla, just HTML/CSS/JS and hand-built SVG when I need a graph.
+This is what I use for GPU compute and shader work, physics simulation in the browser, 3D viewers in Three.js / React Three Fiber, REST APIs and async backends with Pydantic schemas, graph and data visualization, automated web scraping with the Apify SDK, and version control. Most of my frontend work is vanilla, just HTML/CSS/JS and hand-built SVG when I need a graph.
 
 #### Design, Media & Visualization
 
@@ -81,6 +83,7 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 
 | Project | What it is |
 |---|---|
+| [BlockShot](https://github.com/VecetyP/BlockShot) | Turn any image into a Minecraft build that looks exactly like it from one spot. Monocular 3D (MoGe-3, Depth Anything, VGGT) → point cloud → colour-matched blocks → a WorldEdit schematic that puts the camera at your eyes. Comes with a 3D lab for testing depth models |
 | [Dynamic Fluid Caustics](https://github.com/VecetyP/Dynamic-Fluid-Caustics) ([live demo](https://vecetyp.github.io/Dynamic-Fluid-Caustics/)) | Draw a shape, and water focuses light into it. Monge–Ampère inverse solve, DCT Poisson steps, shallow-water sim, WebGPU + WGSL compute, Three.js tank |
 | [ClearVote](https://github.com/VecetyP/U-Hackathon-Demo-ClearVote) | Thai ballot verification for U-Hackathon 2026. Offline classical CV (OpenCV, no neural net), every verdict has a reason, 32/32 on the Election Commission benchmark |
 | [ClassTwin](https://github.com/VecetyP/ClassTwin-Backend-Demo) | "Turn a 1:200 into a 200:200." LangGraph tutor and teacher agents over a RAG store, Gemini structured output with an offline fallback, grades computed in code and never by the LLM |
@@ -102,6 +105,7 @@ I rely on these for programmatic math and physics animations, UI design, graphic
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VecetyP)
 [![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/974129486/profile)
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge)]([https://github.com/VecetyP/BlockShot](https://namemc.com/profile/VecetyP))
 [![Wynncraft](https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge)](https://wynncraft.com/stats/player/vecetyp)
 
 I play a lot of games in my free time. In Minecraft, I mostly play technical modpacks and on the Wynncraft server, where I main an Assassin with the Acrobat archetype. Outside of that, I play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
