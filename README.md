@@ -1,6 +1,6 @@
 # Hey there, I'm Vec
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=a+dude+coding+random+things;monocular+3D,+physics+sims,+cellular+automata;classical+CV+where+every+verdict+has+a+reason;silly+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=a+dude+coding+random+things;monocular+3D,+physics+sims,+cellular+automata;silly+web+apps)](https://git.io/typing-svg)
 
 ---
 
