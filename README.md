@@ -14,11 +14,11 @@ First-year Computer Engineering student at Chulalongkorn University, on the tech
 
 | | |
 |---|---|
-| **[BlockShot](https://github.com/VecetyP/BlockShot)** | Turn any image into a Minecraft build that looks exactly like it from one spot. Monocular 3D (MoGe-3, Depth Anything, VGGT) → point cloud → colour-matched blocks → a WorldEdit schematic that puts the camera at your eyes. Ships with a 3D lab for comparing depth models. |
+| **[BlockShot](https://github.com/VecetyP/BlockShot)** | Turn any image into a Minecraft build. Monocular 3D (MoGe-3, Depth Anything, VGGT) → point cloud → colour-matched blocks → a WorldEdit schematic. Ships with a 3D lab for comparing depth models. |
 | **[Dynamic Fluid Caustics](https://github.com/VecetyP/Dynamic-Fluid-Caustics)** · [live demo](https://vecetyp.github.io/Dynamic-Fluid-Caustics/) | Draw a shape, and water focuses light into it. Monge–Ampère inverse solve, DCT Poisson steps, shallow-water sim, WebGPU + WGSL compute, Three.js tank. |
 | **[Sightline](https://github.com/VecetyP/Sightline)** | Isometric puzzle game where whatever lines up on screen is walkable. Turn the camera until two far-apart ledges meet and they become one path. 24 levels across six worlds, Three.js + Vite. |
-| **[ClearVote](https://github.com/VecetyP/U-Hackathon-Demo-ClearVote)** | Thai ballot verification for U-Hackathon 2026. Offline classical CV (OpenCV, no neural net, no training data), every verdict has a reason, 32/32 on the Election Commission benchmark. |
-| **[ClassTwin](https://github.com/VecetyP/ClassTwin-Backend-Demo)** | "Turn a 1:200 into a 200:200." LangGraph tutor and teacher agents over a RAG store, Gemini structured output with an offline fallback, grades computed in code and never by the LLM. |
+| **[ClearVote](https://github.com/VecetyP/U-Hackathon-Demo-ClearVote)** | Thai ballot verification for U-Hackathon 2026. Offline classical CV (OpenCV, no neural net, no training data), 32/32 on the Election Commission benchmark. |
+| **[ClassTwin](https://github.com/VecetyP/ClassTwin-Backend-Demo)** | LangGraph tutor and teacher agents over a RAG store, Gemini structured output with an offline fallback, grades computed in code and never by the LLM. |
 | **[AshGlyph](https://github.com/VecetyP/AshGlyph)** | Reads Conway's Life as Braille. Still lifes, oscillators and spaceships are tracked across generations and mapped to glyphs, rendered live as an embossed dot mesh in Ursina. Chaos reads as blank. |
 
 <details>
@@ -127,6 +127,6 @@ Programmatic math and physics animations, UI design, graphics editing, and video
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge)](https://namemc.com/profile/VecetyP)
 [![Wynncraft](https://img.shields.io/badge/Wynncraft-556B2F?style=for-the-badge)](https://wynncraft.com/stats/player/vecetyp)
 
-I run [VecetyP on YouTube](https://www.youtube.com/@VecetyP) (~48K subs), which these days means one upload a year, on April Fools' Day. In Minecraft I mostly play technical modpacks and Wynncraft, where I main an Assassin with the Acrobat archetype. I also play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
+I run [VecetyP on YouTube](https://www.youtube.com/@VecetyP) (~48K subs), which these days means one upload a year, on April Fools' Day. In Minecraft I mostly play technical modpacks and Wynncraft. I also play Beat Saber, do ballroom and latin dancing, and practice taekwondo.
 
 [![ascii](ascii.svg)](https://github.com/VecetyP/Video2ASCII)
